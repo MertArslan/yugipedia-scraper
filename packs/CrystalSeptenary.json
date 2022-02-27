@@ -1,0 +1,7296 @@
+{
+    "ASongofZephyrandPetals": [
+        {
+            "Name": "Windwitch - Diamond Bell",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Bloom Diva the Melodious Choir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Ice Bell",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ostinato",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bloom Harmonist the Melodious Composer",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Winter Bell",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Bloom Prima the Melodious Choir",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Glass Bell",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "1st Movement Solo",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Windwitch Chimes",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Schuberta the Melodious Maestra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Crystal Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Aria the Melodious Diva",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mozarta the Melodious Maestra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Elegy the Melodious Diva",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Snow Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Feedran, the Winds of Mischief",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Freeze Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fairy Wind",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Lost Wind",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Sonata the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Canon the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Serenade the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Shopina the Melodious Maestra",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Soprano the Melodious Songstress",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Opera the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tamtam the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Rose",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Solo the Melodious Songstress",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Score the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Blizzard Bell",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Pianissimo",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Fortissimo",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Melodious Illusion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Icy Breeze Refrain",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "AbyssalUnderworld": [
+        {
+            "Name": "Avendread Savior",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Uni-Zombie",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Doomking Balerdroch",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Zombie World",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Vendread Chimera",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Vendread Battlelord",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Revendread Executor",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "King of the Skull Servants",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Necroworld Banshee",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Glow-Up Bloom",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Wightbaking",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Zombie Necronize",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Revendread Slayer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Wightmare",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Wightprince",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Wightprincess",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Vendread Core",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Vendread Anima",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Jack-o-Bolan",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Revendread Origin",
+            "Rarity": "Rare",
+            "Category": [
+                "Ritual Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Vendread Nights",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Vendread Charge",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Revived King Ha Des",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Zombie Master",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "The Lady in Wight",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Plaguespreader Zombie",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Pain Painter",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Vendread Revenants",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Vendread Houndhorde",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Vendread Striges",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tatsunecro",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Skull Servant",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster"
+            ]
+        },
+        {
+            "Name": "Revendread Evolution",
+            "Rarity": "Common",
+            "Category": [
+                "Ritual Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Vendread Nightmare",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Zombie Power Struggle",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Vendread Reorigin",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Vendread Reunion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Vendread Revolution",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Vendread Daybreak",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Return of the Zombies",
+            "Rarity": "Normal Trap Card",
+            "Category": [
+                "Trap"
+            ]
+        }
+    ],
+    "AdvancedWarriors": [
+        {
+            "Name": "Majester Paladin, the Ascending Dracoslayer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Ignister Prominence, the Blasting Dracoslayer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Dinoster Power, the Mighty Dracoslayer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Master Peace, the True Dracoslayer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Amorphactor Pain, the Imagination Dracoverlord",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Igknight Champion",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Luster Pendulum, the Dracoslayer",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomist Rex",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Amorphage Goliath",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Draco Face-Off",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Igknights Unite",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dinomists Howling",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Igknight Lancer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Majespecter Cat - Nekomata",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Amorphage Gluttony",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Amorphage Wrath",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Amorphage Sloth",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomist Spinos",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Ignition Phoenix",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Majesty&#39;s Pegasus",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Majespecter Storm",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Majespecter Cyclone",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dinomist Charge",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Amorphage Infection",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Majespecter Raccoon - Bunbuku",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Majespecter Crow - Yata",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomist Pteran",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomist Ceratops",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Lector Pendulum, the Dracoverlord",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Amorphage Envy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomist Ankylos",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Igknight Crusader",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Igknight Templar",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Igknight Gallant",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Igknight Cavalier",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dinomic Powerload",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Amorphous Persona",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Majespecter Tornado",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Majespecter Tempest",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Dinomist Rush",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "AIOmniscience": [
+        {
+            "Name": "Dark Templar @Ignister",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "The Arrival Cyberse @Ignister",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Light Dragon @Ignister",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Fire Phoenix @Ignister",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Linguriboh",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Dark Infant @Ignister",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Wind Pegasus @Ignister",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Ignister A.I.Land",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I. Meet You",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I.&#39;s Show",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Earth Golem @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Pikari @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Achichi @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gussari @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gatchiri @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Danmari @Ignister",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "A.I.dle Reborn",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "You and A.I.",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "FA.I.ghting Spirit",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I. Challenge You",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Water Leviathan @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Bururu @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Doyon @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hiyari @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Doshin @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Donyoribo @Ignister",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "TA.I. Strike",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I. Love Fusion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I.&#39;s Ritual",
+            "Rarity": "Common",
+            "Category": [
+                "Ritual Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I. Contact",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "A.I. Shadow",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "A.I.Q",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "AlteredHeraldry": [
+        {
+            "Name": "Number 8: Heraldic King Genom-Heritage",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 69: Heraldry Crest",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Advanced Heraldry Art",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rank-Up-Magic Argent Chaos Force",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Norito the Moral Leader",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Skypalace Gangaridai",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Skypalace Babylon",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C69: Heraldry Crest of Horror",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 18: Heraldry Patriarch",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Amphisbaena",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Charged-Up Heraldry",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Marshalling Field",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Fairy Cheer Girl",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Mechquipped Angineer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Mechquipped Djinn Angeneral",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Simon the Great Moral Leader",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Comics Hero King Arthur",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Comics Hero Legend Arthur",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Battlecruiser Dianthus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Battleship Cherry Blossom",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Twin-Headed Eagle",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Leo",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Augmented Heraldry",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Resurgam Xyz",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Number 92: Heart-eartH Dragon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 53: Heart-eartH",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Coach King Giantrainer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Dark Fairy Cheer Girl",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "CXyz Coach Lord Ultimatrainer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C92: Heart-eartH Chaos Dragon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Aberconway",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Berners Falcon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Basilisk",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Eale",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldic Beast Unicorn",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Garbage Ogre",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Garbage Lord",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heraldry Reborn",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Heraldry Change",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Heraldry Record",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "ArtisticAngel": [
+        {
+            "Name": "The Weather Painter Rainbow",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "GranSolfachord Musecia",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "DoSolfachord Coolia",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Solfachord Elegance",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Snow",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Aurora",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ret-time Reviver Emit-ter",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "DoSolfachord Cutia",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "SolSolfachord Gracia",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Snowy Canvas",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Weather Rainbowed Canvas",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Number 76: Harmonizer Gradielle",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Thunder",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Cupid Volley",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "FaSolfachord Fancia",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "LaSolfachord Angelia",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "TiSolfachord Beautia",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Cloudy Canvas",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Solfachord Harmonia",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Weather Thundery Canvas",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Solfachord Musica",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Rain",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Cloud",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Painter Sun",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Cupid Dunk",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Cupid Serve",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Cupid Fore",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rain Bozu",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "ReSolfachord Dreamia",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "MiSolfachord Eliteia",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "The Weather Rainy Canvas",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Weather Sunny Canvas",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Solfachord Scale",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Weather Auroral Canvas",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Solfachord Formal",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "AstralTrinityofGods": [
+        {
+            "Name": "Thor, Lord of the Aesir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Loki, Lord of the Aesir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Odin, Father of the Aesir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Gullveig of the Nordic Ascendant",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Valkyrie of the Nordic Ascendant",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Vanadis of the Nordic Ascendant",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "The Golden Apples",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Gleipnir, the Fetters of Fenrir",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Tanngrisnir of the Nordic Beasts",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guldfaxe of the Nordic Beasts",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Dverg of the Nordic Alfar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mara of the Nordic Alfar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Jormungardr the Nordic Serpent",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fenrir the Nordic Wolf",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alviss of the Nordic Alfar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Nordic Relic Draupnir",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Garmr of the Nordic Beasts",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tanngnjostr of the Nordic Beasts",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ljosalf of the Nordic Alfar",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Svartalf of the Nordic Alfar",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Mimir of the Nordic Ascendant",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tyr of the Nordic Champions",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gotterdammerung",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "March Towards Ragnarok",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "The Nordic Lights",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Divine Relic Mjollnir",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Solemn Authority",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Nordic Relic Brisingamen",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Nordic Relic Laevateinn",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Nordic Relic Gungnir",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Odin&#39;s Eye",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Nordic Relic Megingjord",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "AwakeningoftheAncients": [
+        {
+            "Name": "Guardian Eatos",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Scythe",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Double-Edged Sword",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Artifact Sanctum",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Artifact Dagda",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Durendal",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Moralltach",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guardian Dreadscythe",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Lancea",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hidden Armory",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Artifact Ignition",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Power of the Guardians",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Armory Call",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Arsenal Summoner",
+            "Rarity": "Rare",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Guardian Grarl",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Aegis",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Caduceus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Vajra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Mjollnir",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Megamorph",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Big Bang Shot",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Unstable Evolution",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Celestial Sword - Eatos",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Reaper Scythe - Dreadscythe",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Moon Mirror Shield",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Guardian Elma",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guardian Ceal",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guardian Baou",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guardian Kay&#39;est",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Guardian Tryce",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Beagalltach",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Achilleshield",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Artifact Chakram",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Shooting Star Bow - Ceal",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Gravity Axe - Grarl",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Wicked-Breaking Flamberge - Baou",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rod of Silence - Kay&#39;est",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Twin Swords of Flashing Light - Tryce",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Artifacts Unleashed",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Guarded Treasure",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        }
+    ],
+    "BeastsoftheInferno": [
+        {
+            "Name": "Hazy Flame Basiltrice",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Star Mine",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Doomfire",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Blaze Accelerator Reload",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Vulcan the Divine",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Lava Golem",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gren Maju Da Eiza",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Shell",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Rocket",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Counter",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Sphynx",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Firebrand Hymnist",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fire Fighting Daruma Doll",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Scattershot",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Queen",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Cerbereus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Peryton",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fencing Fire Ferret",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Hydra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fire Cracker",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Blaze Accelerator",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Tri-Blaze Accelerator",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Volcanic Blaster",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Slicer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Hammerer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Royal Firestorm Guards",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fire Trooper",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Flame Tiger",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Hyppogrif",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Griffin",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hazy Flame Mantikor",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bonfire Colossus",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hinezumi Hanabi",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Volcanic Rat",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster"
+            ]
+        },
+        {
+            "Name": "Soul of Fire",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Wild Fire",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Hazy Pillar",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Firewall",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Volcanic Recharge",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Hazy Glory",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "BelovedDolls": [
+        {
+            "Name": "Madolche Queen Tiaramisu",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 22: Zombiestein",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Puddingcess Chocolat-a-la-Mode",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Teacher Glassouffle",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Princess Cologne (card)",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Magileine",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Puddingcess",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Messengelato",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Hootcake",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Anjelly",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Petingcessoeur",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Doll Happiness",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Clara &amp; Rushka, the Ventriloduo",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Fresh Sistart",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Cross-Sheep",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Number 29: Mannequin Cat",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Box of Friends",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Zombowwow",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Grandpa Demetto (card)",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Chateau",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Madolche Ticket",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Madolche Salon",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Madolche Nights",
+            "Rarity": "Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Madolche Promenade",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Madolche Mewfeuille",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Baaple",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Chouxvalier",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Butlerusk",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Cruffssant",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Marmalmaide",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Madolche Chickolates",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Boycotton",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mimikuril",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Doll Monster Miss M\u00e4dchen",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster"
+            ]
+        },
+        {
+            "Name": "Doll Monster Bear-Bear",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster"
+            ]
+        },
+        {
+            "Name": "Doll House",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Madolche Lesson",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Madolche Waltz",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Madolche Tea Break",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Madolchepalooza",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "BlazingFortitude": [
+        {
+            "Name": "Salamangreat Heatleo",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Sunlight Wolf",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Almiraj",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Pyro Phoenix",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Balelynx",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Miragestallio",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Blaze Dragon",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Violet Chimera",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Gazelle",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Spinny",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Sanctuary",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Circle",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Roar",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Salamangreat Emerald Eagle",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Jack Jaguar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Fowl",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Beat Bison",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Coyote",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Will of the Salamangreat",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Fusion of Fire",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Claw",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Burning Shell",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Transcendence",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Rage",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Salamangreat Meer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Foxy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Falco",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Wolvie",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Parro",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Foxer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Raccoon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Mole",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Fennec",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Salamangreat Zebroid X",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rise of the Salamangreat",
+            "Rarity": "Common",
+            "Category": [
+                "Ritual Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Recureance",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rising Fire",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Fury of Fire",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Burning Draw",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Salamangreat Gift",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "BlazingWarriors": [
+        {
+            "Name": "Heroic Champion - Excalibur",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C105: Battlin&#39; Boxer Comet Cestus",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 86: Heroic Champion - Rhongomyniad",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Rank-Up-Magic - The Seventh One",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Heroic Champion - Gandiva",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Champion - Kusanagi",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Lead Yoke",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 105: Battlin&#39; Boxer Star Cestus",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 79: Battlin&#39; Boxer Nova Kaiser",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Assault Halberd",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Thousand Blades",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Stoic Challenge",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Number 54: Lion Heart",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Cheat Commissioner",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Swordshield",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Double Lance",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Extra Sword",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Switchitter",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Veil",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxing Spirits",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Heroic Retribution Sword",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Jolt Counter",
+            "Rarity": "Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Spartan",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - War Hammer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Night Watchman",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Headgeared",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Glassjaw",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Sparrer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Counterpunch",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Ambush Soldier",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Challenger - Clasp Sword",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Rib Gardna",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Rabbit Puncher",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Big Bandage",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Battlin&#39; Boxer Shadow",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Heroic Chance",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Heroic Gift",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Heroic Advance",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Xyz Block",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Last Counter",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "BloominginAdversity": [
+        {
+            "Name": "Aromaseraphy Jasmine",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Teardrop the Rikka Queen",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Rikka Queen Strenna",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Aromaseraphy Sweet Marjoram",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Aromaseraphy Rosemary",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Lonefire Blossom",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tytannial, Princess of Camellias",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aromage Jasmine",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mudan the Rikka Fairy",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Staysailor Romarin",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Aroma Gardening",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rikka Glamour",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Kanzashi the Rikka Queen",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Queen of Thorns",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Aromage Bergamot",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aromaseraphy Angelica",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Aromage Laurel",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Snowdrop the Rikka Fairy",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Hellebore the Rikka Fairy",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rikka Flurries",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Humid Winds",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Blessed Winds",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Number 87: Queen of the Night",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Botanical Lion",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Botanical Girl",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Talaya, Princess of Cherry Blossoms",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mari\u00f1a, Princess of Sunflowers",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Chirubim\u00e9, Princess of Autumn Leaves",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aromage Cananga",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aromage Rosemary",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aroma Jar",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Aromage Marjoram",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rikka Petal",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Primula the Rikka Fairy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Cyclamen the Rikka Fairy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Erica the Rikka Fairy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Aroma Garden",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dried Winds",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Rikka Tranquility",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Rikka Sheet",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "Bujin27sVaultofHeaven": [
+        {
+            "Name": "Bujintei Susanowo",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Bujintei Kagutsuchi",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Bujintei Tsukuyomi",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Bujinki Amaterasu",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Bujinki Ahashima",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Bujin Yamato",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Quilin",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Crane",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujin Mikazuchi",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujin Arasuda",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujin Mahitotsu",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujin Torifune",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Crow",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Peacock",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Fox",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Hare",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Pavo",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Sinyou",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujincarnation",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bujin Regalia - The Mirror",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bujinunity",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bujincandescence",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bujingi Turtle",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Wolf",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Ophidian",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Ibis",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Boar",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Centipede",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Warg",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Raven",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujingi Swallow",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Bujintervention",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bujin Regalia - The Sword",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Bujinfidel",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Bujin Regalia - The Jewel",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Bujincident",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CaptivatingCurtainCall": [
+        {
+            "Name": "Performapal Sleight Hand Magician",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Sky Magician",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Pendulum Sorcerer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Odd-Eyes Metal Claw",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Gatlinghoul",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Longphone Bull",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Kuribohble",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Skullcrobat Joker",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal King Bear",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Dramatic Theater",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Performapal Friendonkey",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Secondonkey",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Handsamuraiger",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Revue Dancer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Silver Claw",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Trampolynx",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Parrotrio",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Gold Fang",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Laugh Maker",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Smile Sorcerer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Super Hippo Carnival",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dueltaining",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Performapal Whip Snake",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Salutiger",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Helpprincess",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Sky Pupil",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Trump Witch",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Trump Girl",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Whim Witch",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Seal Eel",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Bubble Barrier",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Performance Hurricane",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Smile World",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Magician&#39;s Right Hand",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Magician&#39;s Left Hand",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Magician&#39;s Restage",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Smile Universe",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Smile Action",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Performapal Pinch Helper",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Smile Potion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CelestialDragonandBear": [
+        {
+            "Name": "Drytron Mu Beta Fafnir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Septentrion",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Drytron Meteonis Draconids",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Meteonis Drytron",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Ritual Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Ursarctic Polari",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Grand Chariot",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Drytron Meteonis Quadrantids",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Ritual Monster"
+            ]
+        },
+        {
+            "Name": "Drytron Alpha Thuban",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Mikpolar",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Sacred Sword of Seven Stars",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Ursarctic Departure",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Drytron Zeta Aldhibah",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Megapolar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Hypernova Burst",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Drytron Fafnir",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Drytron Nova",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Drytron Asterism",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Ursarctic Big Dipper",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Born from Draconis",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Drytron Meteor Shower",
+            "Rarity": "Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Drytron Beta Rastaban",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Drytron Gamma Eltanin",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Drytron Delta Altais",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Miktanus",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Mikbilis",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Megatanus",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Ursarctic Megabilis",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Drytron Eclipse",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Ursarctic Slider",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Ursarctic Quint Charge",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "Cell22A22Corruption": [
+        {
+            "Name": "Alien Shocktrooper M-Frame",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Cosmic Slicer Zer&#39;oll",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Cosmic Fortress Gol&#39;gar",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Cosmic Horror Gangi&#39;el",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Overlord",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Ammonite",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Alien Stealthbuster",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "&quot;A&quot; Cell Recombination Device",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Planet Pollutant Virus",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Alien Mars",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Mother",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Telepath",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Hypno",
+            "Rarity": "Rare",
+            "Category": [
+                "Gemini monster"
+            ]
+        },
+        {
+            "Name": "Alien Kid",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Dog",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "&quot;A&quot; Cell Scatter Burst",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "&quot;A&quot; Cell Breeding Device",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Code A Ancient Ruins",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Alien Grey",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Alien Skull",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Hunter",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Warrior",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Flying Saucer Muusik&#39;i",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Infiltrator",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Psychic",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Interplanetary Invader &quot;A&quot;",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Alien Shocktrooper",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster"
+            ]
+        },
+        {
+            "Name": "Corruption Cell &quot;A&quot;",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Otherworld - The &quot;A&quot; Zone",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "&quot;A&quot; Cell Incubator",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Mysterious Triangle",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crop Circles",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Orbital Bombardment",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Brainwashing Beam",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Mass Hypnosis",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Cell Explosion Virus",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Detonator Circle &quot;A&quot;",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Interdimensional Warp",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Alien Brain",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "ChampionsofHope": [
+        {
+            "Name": "Number 39: Utopia",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number S39: Utopia the Lightning",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number F0: Utopic Draco Future",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Ultimate Dragonic Utopia Ray",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 99: Utopia Dragonar",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Zexal Construction",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Number F0: Utopic Future",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number F0: Utopic Future Slash",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 39: Utopia Double",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Dragonic Halberd",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "ZS - Utopic Sage",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Xyz Change Tactics",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rank-Up-Magic Zexal Force",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Hyper Rank-Up-Magic Utopiforce",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Halfway to Forever (card)",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "ZW - Leo Arms",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C39: Utopia Ray V",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Sleipnir Mail",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Pegasus Twin Saber",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZS - Armed Sage",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZS - Ascended Sage",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rank-Up-Magic Limited Barian&#39;s Force",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Shining Hope Road",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Light Wing Shield",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Zexal Entrust",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "ZW - Unicorn Spear",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Phoenix Bow",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Lightning Blade",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Tornado Bringer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Ultimate Shield",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Eagle Claw",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "DZW - Chimera Clad",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZW - Asura Strike",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "SZW - Fenrir Sword",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "ZS - Vanish Sage",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Double or Nothing!",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rising Sun Slash",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Shining Draw (card)",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Future Drive",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Zexal Alliance",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "ChampionsofSalvation": [
+        {
+            "Name": "Constellar Pleiades",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Ptolemy M7",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Stellarknight Triverr",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Stellarknight Constellar Diamond",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Omega",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Stellarknight Delteros",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Darktellarknight Batlamyus",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Sombre",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Deneb",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Caduceus",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Skybridge",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Stellarnova Alpha",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Constellar Praesepe",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Pollux",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Zubeneschamali",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Virgo",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Kaus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Antares",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Altair",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Alsahm",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Sirius",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Star Chart",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Hexatellarknight",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Constellar Tempest",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Constellar Sheratan",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Algiedi",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Siat",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Rasalhague",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Alrescha",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Vega",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Unukalhai",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Procyon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Betelgeuse",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Satellarknight Capella",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Constellar Star Cradle",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Constellar Belt",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Stellarknight Alpha",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Tellarknight Genesis",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Constellar Meteor",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Stellarnova Wave",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "ColossalMech": [
+        {
+            "Name": "Gimmick Puppet Chimera Doll",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Number 15: Gimmick Puppet Giant Grinder",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 88: Gimmick Puppet of Leo",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Rank-Up-Magic Argent Chaos Force",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Amphibious Swarmship Amblowhale",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Number 40: Gimmick Puppet of Strings",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number 9: Dyson Sphere",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C15: Gimmick Puppet Giant Hunter",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C40: Gimmick Puppet of Dark Strings",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Number C88: Gimmick Puppet Disaster Leo",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Gigantes Doll",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Bisque Doll",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Marshalling Field",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Number C9: Chaos Dyson Sphere",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Aegaion the Sea Castrum",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Cloudcastle",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Planet Pathfinder",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Magnet Doll",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Terror Baby",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Arcjet Lightcraft",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Goldilocks the Battle Landscaper",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Perform Puppet",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Condolence Puppet",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Puppet Parade",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Resurgam Xyz",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Solar Wind Jammer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Dreary Doll",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Egg Head",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Gear Changer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Twilight Joker",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Scissor Arms",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Nightmare",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Des Troy",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Deep-Space Cruiser IX",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Humpty Dumpty",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Gimmick Puppet Shadow Feeler",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tannhauser Gate",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Gravity Blaster",
+            "Rarity": "Common",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Junk Puppet",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Puppet Ritual",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        }
+    ],
+    "CombatantsofFlame": [
+        {
+            "Name": "Lavalval Dragun",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Lavalval Salamander",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Lavalval Exlord",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Rekindling",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Laval the Greater",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Laval Forest Sprite",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Laval Volcano Handmaiden",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Laval Lakeside Lady",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Laval Archer",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Molten Conduction Field",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Birth of the Prominence Flame",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Lavalval Ignis",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Lavalval Dragon",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Laval Dual Slasher",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Laval Stennon",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Laval Burner",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Judgment Lord",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Lancelord",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Blaster",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Dustflame Blast",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Laval Miller",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Soaring Eagle Above the Searing Land",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Laval Warrior",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Prominence, Molten Swordsman",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Kayenn, the Master Magma Blacksmith",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Cannon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Coatl",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Laval Magma Cannoneer",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Laval Phlogis",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Searing Fire Wall",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Molten Whirlwind Wall",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Burgeoning Whirlflame",
+            "Rarity": "Common",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CosmicMechanicalEntities": [
+        {
+            "Name": "X-Krawler Qualiark",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Spectrum Supreme",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Knightmare Unicorn",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Knightmare Gryphon",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "X-Krawler Synaphysis",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "X-Krawler Neurogos",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Knightmare Cerberus",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Knightmare Phoenix",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight of the Morning Star",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Blue Sky",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Purple Nightfall",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Knightmare Corruptor Iblee",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Krawler Spine",
+            "Rarity": "Rare",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "World Legacy - &quot;World Lance&quot;",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "World Legacy in Shadow",
+            "Rarity": "Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy Survivor",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy&#39;s Memory",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy Pawns",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "World Legacy&#39;s Sorrow",
+            "Rarity": "Rare",
+            "Category": [
+                "Counter Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "World Legacy&#39;s Mind Meld",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Crusadia Krawler",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Krawler Axon",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Krawler Glial",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Krawler Receptor",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Krawler Ranvier",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Krawler Dendrite",
+            "Rarity": "Common",
+            "Category": [
+                "Flip monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Green Horizon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Orange Sunset",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Yellow Star",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Red Moon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mekk-Knight Indigo Eclipse",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "World Legacy Scars",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy Key",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy&#39;s Nightmare",
+            "Rarity": "Common",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "World Legacy Whispers",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "World Legacy&#39;s Secret",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "World Legacy Struggle",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CounterswingMages": [
+        {
+            "Name": "Timestar Magician",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "Supreme King Z-ARC",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Odd-Eyes Pendulum Dragon",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Astrograph Sorcerer",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Celestial Magician",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Rune-Eyes Pendulum Dragon",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Wisdom-Eye Magician",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Chronograph Sorcerer",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Double Iris Magician",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Black Fang Magician",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "White Wing Magician",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Purple Poison Magician",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Pendulum Call",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Duelist Alliance (card)",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Magician of Hope",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Enlightenment Paladin",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Nirvana High Paladin",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Oafdragon Magician",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Harmonizing Magician",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Performapal Smile Sorcerer",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Star Pendulumgraph",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Pendulum Halt",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Soul Pendulum",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Time Pendulumgraph",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Tuning Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Stargazer Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Timegazer Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Xiangke Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Xiangsheng Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dharma-Eye Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Nobledragon Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Timebreaker Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dragoncaller Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dragonpulse Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dragonpit Magician",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Pendulum Storm",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Amazing Pendulum",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Pendulum Fusion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Pendulum Back",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Pendulum Switch",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CrossDimensionalContracts": [
+        {
+            "Name": "D/D/D Duo-Dawn King Kali Yuga",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Cursed King Siegfried",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Gust High King Alexander",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Wave Oblivion King Caesar Ragnarok",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Flame High King Genghis",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Abyss King Gilgamesh",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Wave King Caesar",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Flame King Genghis",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Dragonbane King Beowulf",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "D/D Swirl Slime",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Rebel King Leonidas",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Oblivion King Abyss Ragnarok",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Gate",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "D/D/D Wave High King Caesar",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Super Doom King Dark Armageddon",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Xyz Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Gust King Alexander",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Super Doom King Bright Armageddon",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Super Doom King Purple Armageddon",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Necro Slime",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "D/D Lamia",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Newton",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Copernicus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Orthros",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Thomas",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Nikola",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Oracle King d&#39;Arc",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "D/D Lilith",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "D/D Nighthowl",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Galilei",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Savant Kepler",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D/D Doom King Armageddon",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "D/D Cerberus",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Swamp King",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Yamimakai",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Forbidden Dark Contract with the Swamp King",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Entities",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Witch",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "D/D/D Human Resources",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Dark Contract with Errors",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Dark Contract with the Eternal Darkness",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        }
+    ],
+    "CrystalSeptenary": [
+        {
+            "Name": "Rainbow Overdragon",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Rainbow Dragon",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Rainbow Dark Dragon",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Bond",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rainbow Neos",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Ancient City - Rainbow Ruins",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rare Value",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crystal Abundance",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Advanced Dark",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Field Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rainbow Bridge",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rainbow Life",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Ultimate Crystal Magic",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Sapphire Pegasus",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "The Tripper Mercury",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Master",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Keeper",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Pendulum Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Promise",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Hand Destruction",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crystal Release",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crystal Tree",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rainbow Veil",
+            "Rarity": "Rare",
+            "Category": [
+                "Equip Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Rainbow Refraction",
+            "Rarity": "Rare",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crystal Pair",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Crystal Conclave",
+            "Rarity": "Rare",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Amethyst Cat",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Amber Mammoth",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Ruby Carbuncle",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Emerald Tortoise",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Topaz Tiger",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beast Cobalt Eagle",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Dweller in the Depths",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Beacon",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Crystal Blessing",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Last Resort",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Triggered Summon",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Crystal Raigeki",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Gem Flash Energy",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Counter Gem",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Rainbow Path",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Rainbow Gravity",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,268 @@
+{
+    "ASongofZephyrandPetals": [
+        {
+            "Name": "Windwitch - Diamond Bell",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Bloom Diva the Melodious Choir",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Ice Bell",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Ostinato",
+            "Rarity": "Ultra Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Bloom Harmonist the Melodious Composer",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Link Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Winter Bell",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Synchro Monster"
+            ]
+        },
+        {
+            "Name": "Bloom Prima the Melodious Choir",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Glass Bell",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "1st Movement Solo",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Windwitch Chimes",
+            "Rarity": "Super Rare",
+            "Category": [
+                "Normal Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Schuberta the Melodious Maestra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Crystal Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Fusion Monster"
+            ]
+        },
+        {
+            "Name": "Aria the Melodious Diva",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Mozarta the Melodious Maestra",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Elegy the Melodious Diva",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Snow Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Feedran, the Winds of Mischief",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Freeze Bell",
+            "Rarity": "Rare",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Fairy Wind",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Lost Wind",
+            "Rarity": "Rare",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Sonata the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Canon the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Serenade the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Shopina the Melodious Maestra",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Soprano the Melodious Songstress",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Opera the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Tamtam the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Crystal Rose",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Solo the Melodious Songstress",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Score the Melodious Diva",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster"
+            ]
+        },
+        {
+            "Name": "Windwitch - Blizzard Bell",
+            "Rarity": "Common",
+            "Category": [
+                "Effect Monster",
+                "Tuner monster"
+            ]
+        },
+        {
+            "Name": "Pianissimo",
+            "Rarity": "Common",
+            "Category": [
+                "Quick-Play Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Fortissimo",
+            "Rarity": "Common",
+            "Category": [
+                "Continuous Spell Card",
+                "Spell"
+            ]
+        },
+        {
+            "Name": "Melodious Illusion",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        },
+        {
+            "Name": "Icy Breeze Refrain",
+            "Rarity": "Common",
+            "Category": [
+                "Normal Trap Card",
+                "Trap"
+            ]
+        }
+    ]
+}
