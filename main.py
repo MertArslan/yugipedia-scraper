@@ -25,7 +25,6 @@ def dump_packs(count=-1):
     master_list = ml_parser.get_master_list()
     print(master_list)
 
-    all_packs = {}
     for link in master_list:
         pack_name = link.replace("/wiki/", "")
         pack_name = pack_name.replace("_", " ")
@@ -35,16 +34,14 @@ def dump_packs(count=-1):
 
         secret_pack_parser = SecretPackParser(page.text, SP_PATTERN)
         data = secret_pack_parser.get_data()
-        all_packs[pack_name] = data
+
+        with open("packs/" + pack_name + ".json", "w") as f:
+            json.dump(data, f, indent=4)
 
         count -= 1
         if count == 0:
             break
 
-        with open("packs/" + pack_name + ".json", "w") as f:
-            json.dump(all_packs, f, indent=4)
-
-
 if __name__ == '__main__':
-    dump_packs()
+    dump_packs(4)
 
