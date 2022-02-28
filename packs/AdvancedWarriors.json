@@ -1,893 +1,320 @@
-{
-    "ASongofZephyrandPetals": [
-        {
-            "Name": "Windwitch - Diamond Bell",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Synchro Monster"
-            ]
-        },
-        {
-            "Name": "Bloom Diva the Melodious Choir",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Fusion Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Ice Bell",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Ostinato",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Normal Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Bloom Harmonist the Melodious Composer",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Link Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Winter Bell",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Synchro Monster"
-            ]
-        },
-        {
-            "Name": "Bloom Prima the Melodious Choir",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Fusion Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Glass Bell",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "1st Movement Solo",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Normal Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Windwitch Chimes",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Normal Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Schuberta the Melodious Maestra",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Fusion Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Crystal Bell",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Fusion Monster"
-            ]
-        },
-        {
-            "Name": "Aria the Melodious Diva",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Mozarta the Melodious Maestra",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Elegy the Melodious Diva",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Snow Bell",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Feedran, the Winds of Mischief",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Freeze Bell",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Fairy Wind",
-            "Rarity": "Rare",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Lost Wind",
-            "Rarity": "Rare",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Sonata the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Canon the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Serenade the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Shopina the Melodious Maestra",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Soprano the Melodious Songstress",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Opera the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Tamtam the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Crystal Rose",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Solo the Melodious Songstress",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Score the Melodious Diva",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Windwitch - Blizzard Bell",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Pianissimo",
-            "Rarity": "Common",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Fortissimo",
-            "Rarity": "Common",
-            "Category": [
-                "Continuous Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Melodious Illusion",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Icy Breeze Refrain",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        }
-    ],
-    "AbyssalUnderworld": [
-        {
-            "Name": "Avendread Savior",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Link Monster"
-            ]
-        },
-        {
-            "Name": "Uni-Zombie",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Doomking Balerdroch",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Zombie World",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Vendread Chimera",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Ritual Monster"
-            ]
-        },
-        {
-            "Name": "Vendread Battlelord",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Ritual Monster"
-            ]
-        },
-        {
-            "Name": "Revendread Executor",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Ritual Monster"
-            ]
-        },
-        {
-            "Name": "King of the Skull Servants",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Necroworld Banshee",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Glow-Up Bloom",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Wightbaking",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Zombie Necronize",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Normal Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Revendread Slayer",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Ritual Monster"
-            ]
-        },
-        {
-            "Name": "Wightmare",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Wightprince",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Wightprincess",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Vendread Core",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Vendread Anima",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Jack-o-Bolan",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Revendread Origin",
-            "Rarity": "Rare",
-            "Category": [
-                "Ritual Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Vendread Nights",
-            "Rarity": "Rare",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Vendread Charge",
-            "Rarity": "Rare",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Revived King Ha Des",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Synchro Monster"
-            ]
-        },
-        {
-            "Name": "Zombie Master",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "The Lady in Wight",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Plaguespreader Zombie",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Pain Painter",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Vendread Revenants",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Vendread Houndhorde",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Vendread Striges",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Tatsunecro",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster"
-            ]
-        },
-        {
-            "Name": "Skull Servant",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Monster"
-            ]
-        },
-        {
-            "Name": "Revendread Evolution",
-            "Rarity": "Common",
-            "Category": [
-                "Ritual Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Vendread Nightmare",
-            "Rarity": "Common",
-            "Category": [
-                "Continuous Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Zombie Power Struggle",
-            "Rarity": "Common",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Vendread Reorigin",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Vendread Reunion",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Vendread Revolution",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Vendread Daybreak",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Return of the Zombies",
-            "Rarity": "Normal Trap Card",
-            "Category": [
-                "Trap"
-            ]
-        }
-    ],
-    "AdvancedWarriors": [
-        {
-            "Name": "Majester Paladin, the Ascending Dracoslayer",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Xyz Monster"
-            ]
-        },
-        {
-            "Name": "Ignister Prominence, the Blasting Dracoslayer",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Synchro Monster"
-            ]
-        },
-        {
-            "Name": "Dinoster Power, the Mighty Dracoslayer",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster",
-                "Fusion Monster"
-            ]
-        },
-        {
-            "Name": "Master Peace, the True Dracoslayer",
-            "Rarity": "Ultra Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Amorphactor Pain, the Imagination Dracoverlord",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Ritual Monster"
-            ]
-        },
-        {
-            "Name": "Igknight Champion",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Luster Pendulum, the Dracoslayer",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Tuner monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomist Rex",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Amorphage Goliath",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Draco Face-Off",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Igknights Unite",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Dinomists Howling",
-            "Rarity": "Super Rare",
-            "Category": [
-                "Continuous Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Igknight Lancer",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster"
-            ]
-        },
-        {
-            "Name": "Majespecter Cat - Nekomata",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Amorphage Gluttony",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Amorphage Wrath",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Amorphage Sloth",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomist Spinos",
-            "Rarity": "Rare",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Ignition Phoenix",
-            "Rarity": "Rare",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Majesty&#39;s Pegasus",
-            "Rarity": "Rare",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Majespecter Storm",
-            "Rarity": "Rare",
-            "Category": [
-                "Normal Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Majespecter Cyclone",
-            "Rarity": "Rare",
-            "Category": [
-                "Quick-Play Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Dinomist Charge",
-            "Rarity": "Rare",
-            "Category": [
-                "Continuous Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Amorphage Infection",
-            "Rarity": "Common",
-            "Category": [
-                "Continuous Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Majespecter Raccoon - Bunbuku",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Majespecter Crow - Yata",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomist Pteran",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomist Ceratops",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Lector Pendulum, the Dracoverlord",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Amorphage Envy",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomist Ankylos",
-            "Rarity": "Common",
-            "Category": [
-                "Effect Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Igknight Crusader",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Igknight Templar",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Igknight Gallant",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Igknight Cavalier",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Monster",
-                "Pendulum Monster"
-            ]
-        },
-        {
-            "Name": "Dinomic Powerload",
-            "Rarity": "Common",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Amorphous Persona",
-            "Rarity": "Common",
-            "Category": [
-                "Field Spell Card",
-                "Spell"
-            ]
-        },
-        {
-            "Name": "Majespecter Tornado",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Majespecter Tempest",
-            "Rarity": "Common",
-            "Category": [
-                "Counter Trap Card",
-                "Trap"
-            ]
-        },
-        {
-            "Name": "Dinomist Rush",
-            "Rarity": "Common",
-            "Category": [
-                "Normal Trap Card",
-                "Trap"
-            ]
-        }
-    ]
-}
+[
+    {
+        "Name": "Majester Paladin, the Ascending Dracoslayer",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Xyz Monster"
+        ]
+    },
+    {
+        "Name": "Ignister Prominence, the Blasting Dracoslayer",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Synchro Monster"
+        ]
+    },
+    {
+        "Name": "Dinoster Power, the Mighty Dracoslayer",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Master Peace, the True Dracoslayer",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Amorphactor Pain, the Imagination Dracoverlord",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Ritual Monster"
+        ]
+    },
+    {
+        "Name": "Igknight Champion",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Luster Pendulum, the Dracoslayer",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Tuner monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomist Rex",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Amorphage Goliath",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Draco Face-Off",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Igknights Unite",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Dinomists Howling",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Continuous Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Igknight Lancer",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Majespecter Cat - Nekomata",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Amorphage Gluttony",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Amorphage Wrath",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Amorphage Sloth",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomist Spinos",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Ignition Phoenix",
+        "Rarity": "Rare",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Majesty&#39;s Pegasus",
+        "Rarity": "Rare",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Majespecter Storm",
+        "Rarity": "Rare",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Majespecter Cyclone",
+        "Rarity": "Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Dinomist Charge",
+        "Rarity": "Rare",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Amorphage Infection",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Majespecter Raccoon - Bunbuku",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Majespecter Crow - Yata",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomist Pteran",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomist Ceratops",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Lector Pendulum, the Dracoverlord",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Amorphage Envy",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomist Ankylos",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Igknight Crusader",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Igknight Templar",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Igknight Gallant",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Igknight Cavalier",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Dinomic Powerload",
+        "Rarity": "Common",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Amorphous Persona",
+        "Rarity": "Common",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Majespecter Tornado",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Majespecter Tempest",
+        "Rarity": "Common",
+        "Category": [
+            "Counter Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Dinomist Rush",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    }
+]
