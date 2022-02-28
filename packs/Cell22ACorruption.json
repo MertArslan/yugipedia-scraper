@@ -1,0 +1,296 @@
+[
+    {
+        "Name": "Alien Shocktrooper M-Frame",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Link Monster"
+        ]
+    },
+    {
+        "Name": "Cosmic Slicer Zer&#39;oll",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Link Monster"
+        ]
+    },
+    {
+        "Name": "Cosmic Fortress Gol&#39;gar",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Synchro Monster"
+        ]
+    },
+    {
+        "Name": "Cosmic Horror Gangi&#39;el",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Overlord",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Ammonite",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Tuner monster"
+        ]
+    },
+    {
+        "Name": "Alien Stealthbuster",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "&quot;A&quot; Cell Recombination Device",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Planet Pollutant Virus",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Alien Mars",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Mother",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Telepath",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Hypno",
+        "Rarity": "Rare",
+        "Category": [
+            "Gemini monster"
+        ]
+    },
+    {
+        "Name": "Alien Kid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Dog",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "&quot;A&quot; Cell Scatter Burst",
+        "Rarity": "Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "&quot;A&quot; Cell Breeding Device",
+        "Rarity": "Rare",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Code A Ancient Ruins",
+        "Rarity": "Rare",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Alien Grey",
+        "Rarity": "Common",
+        "Category": [
+            "Flip monster"
+        ]
+    },
+    {
+        "Name": "Alien Skull",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Hunter",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Warrior",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Flying Saucer Muusik&#39;i",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Infiltrator",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Psychic",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Interplanetary Invader &quot;A&quot;",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Alien Shocktrooper",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster"
+        ]
+    },
+    {
+        "Name": "Corruption Cell &quot;A&quot;",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Otherworld - The &quot;A&quot; Zone",
+        "Rarity": "Common",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "&quot;A&quot; Cell Incubator",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Mysterious Triangle",
+        "Rarity": "Common",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Crop Circles",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Orbital Bombardment",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Brainwashing Beam",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Mass Hypnosis",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Cell Explosion Virus",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Detonator Circle &quot;A&quot;",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Interdimensional Warp",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Alien Brain",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    }
+]

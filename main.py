@@ -28,7 +28,6 @@ def dump_packs(count=-1):
     for link in master_list:
         pack_name = link.replace("/wiki/", "")
         pack_name = pack_name.replace("_", " ")
-        print(pack_name)
         pack_name = re.sub("%[0-9]*", '', pack_name)
         print(pack_name)
 
@@ -45,5 +44,5 @@ def dump_packs(count=-1):
             break
 
 if __name__ == '__main__':
-    dump_packs(18)
+    dump_packs()
 

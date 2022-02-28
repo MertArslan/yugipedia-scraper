@@ -1,0 +1,310 @@
+[
+    {
+        "Name": "Performapal Sleight Hand Magician",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Sky Magician",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Pendulum Sorcerer",
+        "Rarity": "Ultra Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Odd-Eyes Metal Claw",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Gatlinghoul",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Longphone Bull",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Kuribohble",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Skullcrobat Joker",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal King Bear",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Dramatic Theater",
+        "Rarity": "Super Rare",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Performapal Friendonkey",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Secondonkey",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Handsamuraiger",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Revue Dancer",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Silver Claw",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Trampolynx",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Parrotrio",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Gold Fang",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Laugh Maker",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Smile Sorcerer",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Super Hippo Carnival",
+        "Rarity": "Rare",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Dueltaining",
+        "Rarity": "Rare",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Performapal Whip Snake",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Salutiger",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Helpprincess",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Sky Pupil",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Trump Witch",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Trump Girl",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Whim Witch",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Performapal Seal Eel",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Pendulum Monster"
+        ]
+    },
+    {
+        "Name": "Bubble Barrier",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Performance Hurricane",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Smile World",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Magician&#39;s Right Hand",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Magician&#39;s Left Hand",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Magician&#39;s Restage",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Smile Universe",
+        "Rarity": "Common",
+        "Category": [
+            "Quick-Play Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Smile Action",
+        "Rarity": "Common",
+        "Category": [
+            "Field Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Performapal Pinch Helper",
+        "Rarity": "Common",
+        "Category": [
+            "Continuous Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Smile Potion",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    }
+]
