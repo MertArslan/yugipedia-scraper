@@ -9,6 +9,7 @@ class Pattern:
     row_pattern: str
     data_pattern: str
 
+
 class Parser:
     def __init__(self, text, pattern):
         self.text = text

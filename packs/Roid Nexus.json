@@ -91,5 +91,210 @@
             "Counter Trap Card",
             "Trap"
         ]
+    },
+    {
+        "Name": "Barbaroid, the Ultimate Battle Machine",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Pair Cycroid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Steamroid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Shuttleroid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Submarineroid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Card Trooper",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Armoroid",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Minefieldriller",
+        "Rarity": "Rare",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Oilman",
+        "Rarity": "Rare",
+        "Category": [
+            "Union monster"
+        ]
+    },
+    {
+        "Name": "System Down",
+        "Rarity": "Rare",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Machine Assembly Line",
+        "Rarity": "Rare",
+        "Category": [
+            "Continuous Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Supercharge",
+        "Rarity": "Rare",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
+    },
+    {
+        "Name": "Steam Gyroid",
+        "Rarity": "Common",
+        "Category": [
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "UFOroid Fighter",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Ambulance Rescueroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster",
+            "Fusion Monster"
+        ]
+    },
+    {
+        "Name": "Patroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Gyroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "UFOroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Jetroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Ambulanceroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Stealthroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Decoyroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Truckroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Rescueroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Carrieroid",
+        "Rarity": "Common",
+        "Category": [
+            "Effect Monster"
+        ]
+    },
+    {
+        "Name": "Cycroid",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Monster"
+        ]
+    },
+    {
+        "Name": "Iron Call",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Spell Card",
+            "Spell"
+        ]
+    },
+    {
+        "Name": "Wonder Garage",
+        "Rarity": "Common",
+        "Category": [
+            "Normal Trap Card",
+            "Trap"
+        ]
     }
 ]
