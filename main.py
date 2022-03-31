@@ -8,9 +8,9 @@ import json
 URL = 'https://yugipedia.com'
 ML_PAGE = '/wiki/Secret_Pack'
 ML_PATTERN = Pattern("List of Secret Packs",
-                      "<table.*?</table>",
-                      "<tr.*?</tr>",
-                      "href=\"(.*?)\"")
+                     "<table.*?</table>",
+                     "<tr.*?</tr>",
+                     "href=\"(.*?)\"")
 SP_PATTERN = Pattern("List",
                      "<table.*?</table>",
                      "<tr.*?</tr>",

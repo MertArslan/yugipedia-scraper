@@ -8,7 +8,7 @@
         ]
     },
     {
-        "Name": "Cosmic Slicer Zer&#39;oll",
+        "Name": "Cosmic Slicer Zer'oll",
         "Rarity": "Ultra Rare",
         "Category": [
             "Effect Monster",
@@ -16,7 +16,7 @@
         ]
     },
     {
-        "Name": "Cosmic Fortress Gol&#39;gar",
+        "Name": "Cosmic Fortress Gol'gar",
         "Rarity": "Ultra Rare",
         "Category": [
             "Effect Monster",
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "Name": "Cosmic Horror Gangi&#39;el",
+        "Name": "Cosmic Horror Gangi'el",
         "Rarity": "Super Rare",
         "Category": [
             "Effect Monster"
@@ -53,7 +53,7 @@
         ]
     },
     {
-        "Name": "&quot;A&quot; Cell Recombination Device",
+        "Name": "\"A\" Cell Recombination Device",
         "Rarity": "Super Rare",
         "Category": [
             "Quick-Play Spell Card",
@@ -111,7 +111,7 @@
         ]
     },
     {
-        "Name": "&quot;A&quot; Cell Scatter Burst",
+        "Name": "\"A\" Cell Scatter Burst",
         "Rarity": "Rare",
         "Category": [
             "Quick-Play Spell Card",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "Name": "&quot;A&quot; Cell Breeding Device",
+        "Name": "\"A\" Cell Breeding Device",
         "Rarity": "Rare",
         "Category": [
             "Continuous Spell Card",
@@ -163,7 +163,7 @@
         ]
     },
     {
-        "Name": "Flying Saucer Muusik&#39;i",
+        "Name": "Flying Saucer Muusik'i",
         "Rarity": "Common",
         "Category": [
             "Effect Monster"
@@ -184,7 +184,7 @@
         ]
     },
     {
-        "Name": "Interplanetary Invader &quot;A&quot;",
+        "Name": "Interplanetary Invader \"A\"",
         "Rarity": "Common",
         "Category": [
             "Effect Monster"
@@ -198,7 +198,7 @@
         ]
     },
     {
-        "Name": "Corruption Cell &quot;A&quot;",
+        "Name": "Corruption Cell \"A\"",
         "Rarity": "Common",
         "Category": [
             "Normal Spell Card",
@@ -206,7 +206,7 @@
         ]
     },
     {
-        "Name": "Otherworld - The &quot;A&quot; Zone",
+        "Name": "Otherworld - The \"A\" Zone",
         "Rarity": "Common",
         "Category": [
             "Field Spell Card",
@@ -214,7 +214,7 @@
         ]
     },
     {
-        "Name": "&quot;A&quot; Cell Incubator",
+        "Name": "\"A\" Cell Incubator",
         "Rarity": "Common",
         "Category": [
             "Continuous Spell Card",
@@ -270,7 +270,7 @@
         ]
     },
     {
-        "Name": "Detonator Circle &quot;A&quot;",
+        "Name": "Detonator Circle \"A\"",
         "Rarity": "Common",
         "Category": [
             "Normal Trap Card",
